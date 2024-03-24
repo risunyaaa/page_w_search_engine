@@ -1,4 +1,4 @@
-#Study Companion
+# Study Companion
 
 ##Overview
 Study Companion is a project aimed at creating a search engine for lecture notes and test answers. It provides students with a convenient way to find relevant materials for their studies.
